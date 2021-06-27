@@ -1,8 +1,7 @@
-<p align= "center">
-<h1>T-MAIL V1.0</h1></p>
-Tool By John Kener
+<h1><p align= "center">T-MAIL V1.0 </p></h1>
+<h4><p align = "center">Tool By John Kener <p><h4>
 <div>  
-<p align= "left">
+<p align= "center">
 <br />
 <img src="https://www.udrop.com/file/5HFB/IMG_20210511_073611_429.jpg",width="80", height="80",alt="john-kener"/>
 </p>
@@ -15,15 +14,14 @@ Tool By John Kener
 </div>
 
 <hr />
-    
-## [+] Command List
 
- 
-        
+<h2><p align = "center">[+] Command List</p></h>
+	
+	
+<div align ="center">
+	
 ```pkg update && pkg upgrade```
-        
- ```pkg install python -y ```
-        
+       
 ```pkg install python2 -y ```
         
 ```pkg intall git -y ```
@@ -38,7 +36,8 @@ Tool By John Kener
         
 [+] Just Type ```Tmail``` anywhere to run the tool
        
-
+</div>
+	
 <hr />
 
 ## [#] INSTRUCTIONS
@@ -72,5 +71,3 @@ Tool By John Kener
 
 
 #### © 2021 -John kener & SCW team
-        
-

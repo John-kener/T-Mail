@@ -15,7 +15,7 @@
 
 <hr />
 
-<h2><p align = "center">[+] Command List</p></h>
+<h2><p align = "center">[+] Command List</p></h2>
 	
 	
 <div align ="center">

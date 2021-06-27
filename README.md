@@ -21,7 +21,9 @@
 <div align ="center">
 	
 ```pkg update && pkg upgrade```
-       
+   
+```pkg install python -y ```
+    
 ```pkg install python2 -y ```
         
 ```pkg intall git -y ```

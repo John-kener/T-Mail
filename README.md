@@ -44,7 +44,7 @@
         
 ```python Mail-req.py ```
         
-```python2 t-mail.py ```
+```python t-mail.py ```
         
 [-] Just Type ```Tmail``` anywhere to run the tool
        

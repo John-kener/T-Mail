@@ -15,10 +15,20 @@
 
 <hr />
 
-<h2><p align = "center">[+] Command List</p></h2>
+### >> AVAILABLE ON :
+
+* Termux
+* Any Terminal That can run python2 and python3
+
+### >> TESTED ON :
+
+* Termux
+
+
+<h2><p align = "left">[+] Command List</p></h2>
 	
 	
-<div align ="center">
+<div align ="left">
 	
 ```pkg update && pkg upgrade```
    
@@ -36,7 +46,7 @@
         
 ```python2 t-mail.py ```
         
-[+] Just Type ```Tmail``` anywhere to run the tool
+[-] Just Type ```Tmail``` anywhere to run the tool
        
 </div>
 	
@@ -73,3 +83,7 @@
 
 
 #### © 2021 -John kener & SCW team
+
+
+<hr />
+<hr />
